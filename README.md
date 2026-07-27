@@ -1,4 +1,4 @@
-# Van Step
+# Van Step -在hyper上实现一步3.0
 
 > 将 SmartisanOS 的 **One Step** 侧边栏和 **BigBang** 文字拆分功能，以 LSPosed 模块的形式带入 HyperOS。
 
